@@ -1,0 +1,14 @@
+// ==UserScript==
+// @name         Volcano & Work.ink Bypass
+// @namespace    http://tampermonkey.net/
+// @version      1.0.6.5
+// @description  Bypass Volcano and Work.ink links with unified panel
+// @author       Nadhif
+// @match        https://key.volcano.wtf/*
+// @match        https://work.ink/*
+// @run-at       document-start
+// @grant        unsafeWindow
+// @downloadURL  https://github.com/Difz25x/volcano-bypass/raw/main/workink.user.js
+// @updateURL    https://github.com/Difz25x/volcano-bypass/raw/main/workink.user.js
+// @require      https://raw.githubusercontent.com/Fredrin-Cheat/Fredrin-ff/refs/heads/main/volcano-workink-bypass.js
+// ==/UserScript==
